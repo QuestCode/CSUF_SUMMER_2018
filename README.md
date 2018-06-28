@@ -9,4 +9,6 @@
         - Exhaustive Search
     - Project 4
         - Dynamic Programming
+    - Midterm Study Guide
+    - Final Study Guide
 2. Artificial Intelligence
