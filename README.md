@@ -1,6 +1,7 @@
 # :guardsman: CSUF_SUMMER_2018 :guardsman:
 
 1. Algorithms
+    - Project 1
     - Project 2
         - Empirical Analysis
         - Greedy Heuristic
